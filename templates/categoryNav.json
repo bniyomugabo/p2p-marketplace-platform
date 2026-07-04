@@ -1,0 +1,166 @@
+{
+  "Real Estate": {
+    "heads": [
+      "All Real Estate",
+      "Property Sales",
+      "New Build Properties",
+      "Rentals",
+      "Flatshares & Co-living",
+      "Offices & Commercial",
+      "Moving Services"
+    ],
+    "body": {
+      "All Real Estate": [],
+      "Property Sales": ["Apartment", "House", "Land", "View all"],
+      "New Build Properties": ["Apartment", "House", "New Housing Developments", "Property Developers"],
+      "Rentals": ["Apartment", "House", "Parking & Garage", "View all"],
+      "Flatshares & Co-living": [],
+      "Offices & Commercial": ["Retail Storefronts", "Offices", "Warehouses", "View all"],
+      "Moving Services": []
+    }
+  },
+  "Vehicles": {
+    "heads": [
+      "Cars",
+      "Motorbikes & Scooters",
+      "Caravanning",
+      "Boating",
+      "Auto Equipment & Parts"
+    ],
+    "body": {
+      "Cars": ["Electric & Hybrid", "SUV", "Sedan", "View all"],
+      "Motorbikes & Scooters": ["Motorbikes", "Scooters", "Quad Bikes", "Helmets & Gear"],
+      "Caravanning": ["Motorhomes", "Caravans"],
+      "Boating": ["Motorboats", "Sailboats", "Marine Equipment"],
+      "Auto Equipment & Parts": ["Car Parts", "Tyres & Rims", "GPS & Audio Accessories"]
+    }
+  },
+  "Holidays": {
+    "heads": [
+      "Holiday Rentals",
+      "Hotels & B&Bs",
+      "Campsites",
+      "Travel Exchange & Services"
+    ],
+    "body": {
+      "Holiday Rentals": ["Apartments", "Villas & Houses", "Cabins & Cottages"],
+      "Hotels & B&Bs": ["Guest Houses", "Boutique Hotels"],
+      "Campsites": ["Mobile Homes", "Tent Pitches"],
+      "Travel Exchange & Services": []
+    }
+  },
+  "Jobs": {
+    "heads": [
+      "Job Offers",
+      "Training & Education",
+      "Freelance & Gigs"
+    ],
+    "body": {
+      "Job Offers": ["Sales & Marketing", "IT & Tech", "Healthcare", "Construction & Trade", "Hospitality & Catering"],
+      "Training & Education": ["Professional Courses", "Language Training"],
+      "Freelance & Gigs": ["Home Services", "Tutoring", "Event Services"]
+    }
+  },
+  "Fashion": {
+    "heads": [
+      "Clothing",
+      "Shoes",
+      "Accessories & Luggage",
+      "Watches & Jewellery"
+    ],
+    "body": {
+      "Clothing": ["Women's Clothing", "Men's Clothing", "Baby & Kids", "View all"],
+      "Shoes": ["Sneakers", "Boots", "Heels & Sandals", "View all"],
+      "Accessories & Luggage": ["Handbags", "Sunglasses", "Belts & Hats", "Suitcases"],
+      "Watches & Jewellery": ["Watches", "Rings & Necklaces", "Fine Jewellery"]
+    }
+  },
+  "Home & Garden": {
+    "heads": [
+      "Furniture",
+      "Home Decor & Lighting",
+      "Appliances",
+      "Garden & Patio",
+      "DIY & Tools"
+    ],
+    "body": {
+      "Furniture": ["Sofas & Armchairs", "Beds & Mattresses", "Tables & Chairs", "Storage & Shelves"],
+      "Home Decor & Lighting": ["Rugs", "Mirrors & Wall Art", "Lamps & Ceiling Lights"],
+      "Appliances": ["Refrigerators", "Washing Machines", "Microwaves & Ovens", "Coffee Machines"],
+      "Garden & Patio": ["Garden Furniture", "Lawnmowers & Trimmers", "Plants & Pots", "Barbecues"],
+      "DIY & Tools": ["Power Tools", "Hand Tools", "Building Materials"]
+    }
+  },
+  "Family": {
+    "heads": [
+      "Baby Equipment",
+      "Toys & Games",
+      "Children's Furniture",
+      "Maternity"
+    ],
+    "body": {
+      "Baby Equipment": ["Strollers & Prams", "Car Seats", "High Chairs & Feeding"],
+      "Toys & Games": ["Board Games", "Dolls & Action Figures", "Outdoor Toys", "Lego & Building Blocks"],
+      "Children's Furniture": ["Cribs & Cots", "Toy Storage"],
+      "Maternity": ["Maternity Wear", "Nursing Accessories"]
+    }
+  },
+  "Electronics": {
+    "heads": [
+      "Phones & Telephony",
+      "Computers & Laptops",
+      "TV, Audio & Video",
+      "Video Games & Consoles",
+      "Cameras & Photography"
+    ],
+    "body": {
+      "Phones & Telephony": ["Smartphones", "Smartwatches", "Phone Cases & Chargers"],
+      "Computers & Laptops": ["Laptops", "Desktop PCs", "Monitors", "Printers & PC Parts"],
+      "TV, Audio & Video": ["Smart TVs", "Headphones & Earphones", "Speakers & Home Cinema"],
+      "Video Games & Consoles": ["PlayStation", "Xbox", "Nintendo Switch", "Retro Gaming"],
+      "Cameras & Photography": ["DSLR & Mirrorless", "Lenses", "Drones & Action Cams"]
+    }
+  },
+  "Hobbies & Leisure": {
+    "heads": [
+      "Sports & Fitness",
+      "Musical Instruments",
+      "Books, Film & Music",
+      "Arts, Crafts & Collecting",
+      "Bicycles"
+    ],
+    "body": {
+      "Sports & Fitness": ["Gym & Training", "Camping Gear", "Fishing", "Water Sports"],
+      "Musical Instruments": ["Guitars", "Keyboards & Pianos", "Drums", "Studio Gear"],
+      "Books, Film & Music": ["Novels & Textbooks", "Vinyl Records & CDs", "DVDs & Blu-rays"],
+      "Arts, Crafts & Collecting": ["Painting Supplies", "Antiques", "Coins & Stamps"],
+      "Bicycles": ["Mountain Bikes", "Road Bikes", "Electric Bikes", "Cycling Helmets & Gear"]
+    }
+  },
+  "Others": {
+    "heads": [
+      "Business Equipment",
+      "Services",
+      "Tickets & Events",
+      "Lost & Found"
+    ],
+    "body": {
+      "Business Equipment": ["Office Supplies", "Industrial Machinery", "Restaurant Equipment"],
+      "Services": ["Event Planning", "Repairs & Maintenance", "Beauty & Wellness"],
+      "Tickets & Events": ["Concerts", "Sports Tickets", "Theme Parks"],
+      "Lost & Found": []
+    }
+  },
+  "Hot Deals !": {
+    "heads": [
+      "Flash Sales",
+      "Clearance Deals",
+      "Coupons & Vouchers"
+    ],
+    "body": {
+      "Flash Sales": ["Today's Deals", "Ending Soon"],
+      "Clearance Deals": ["Overstock", "Open Box Items"],
+      "Coupons & Vouchers": ["Gift Cards", "Subscription Codes"]
+    }
+  }
+}

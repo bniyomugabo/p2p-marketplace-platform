@@ -1,0 +1,399 @@
+{
+    "timestamp": "2026-05-18 11:19:02",
+    "pid": 1000,
+    "level": "API",
+    "message": "Login API called",
+    "context": {
+        "method": "POST",
+        "content_type": "application/json"
+    }
+}
+
+{
+    "timestamp": "2026-05-18 11:19:02",
+    "pid": 1000,
+    "level": "API",
+    "message": "Login attempt",
+    "context": {
+        "email": "sam@gmail.com",
+        "remember_me": false,
+        "has_password": true
+    }
+}
+
+{
+    "timestamp": "2026-05-18 11:19:02",
+    "pid": 1000,
+    "level": "API",
+    "message": "Login attempt: SUCCESS",
+    "context": {
+        "email": "sam@gmail.com",
+        "success": true,
+        "ip": "::1",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    }
+}
+
+{
+    "timestamp": "2026-05-18 19:39:48",
+    "pid": 1138,
+    "level": "API",
+    "message": "Login API called",
+    "context": {
+        "method": "POST",
+        "content_type": "application/json"
+    }
+}
+
+{
+    "timestamp": "2026-05-18 19:39:48",
+    "pid": 1138,
+    "level": "API",
+    "message": "Login attempt",
+    "context": {
+        "email": "sam@gmail.com",
+        "remember_me": false,
+        "has_password": true
+    }
+}
+
+{
+    "timestamp": "2026-05-18 19:39:49",
+    "pid": 1138,
+    "level": "API",
+    "message": "Login attempt: SUCCESS",
+    "context": {
+        "email": "sam@gmail.com",
+        "success": true,
+        "ip": "::1",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    }
+}
+
+{
+    "timestamp": "2026-05-18 22:53:28",
+    "pid": 9854,
+    "level": "API",
+    "message": "Login API called",
+    "context": {
+        "method": "POST",
+        "content_type": "application/json"
+    }
+}
+
+{
+    "timestamp": "2026-05-18 22:53:28",
+    "pid": 9854,
+    "level": "API",
+    "message": "Login attempt",
+    "context": {
+        "email": "sam@gmail.com",
+        "remember_me": false,
+        "has_password": true
+    }
+}
+
+{
+    "timestamp": "2026-05-18 22:53:28",
+    "pid": 9854,
+    "level": "API",
+    "message": "Login attempt: SUCCESS",
+    "context": {
+        "email": "sam@gmail.com",
+        "success": true,
+        "ip": "::1",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    }
+}
+
+{
+    "timestamp": "2026-05-21 16:19:04",
+    "pid": 3000,
+    "level": "API",
+    "message": "Login API called",
+    "context": {
+        "method": "POST",
+        "content_type": "application/json"
+    }
+}
+
+{
+    "timestamp": "2026-05-21 16:19:04",
+    "pid": 3000,
+    "level": "API",
+    "message": "Login attempt",
+    "context": {
+        "email": "sam@gmail.com",
+        "remember_me": false,
+        "has_password": true
+    }
+}
+
+{
+    "timestamp": "2026-05-21 16:19:04",
+    "pid": 3000,
+    "level": "API",
+    "message": "Login attempt: SUCCESS",
+    "context": {
+        "email": "sam@gmail.com",
+        "success": true,
+        "ip": "::1",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    }
+}
+
+{
+    "timestamp": "2026-05-22 14:33:37",
+    "pid": 2999,
+    "level": "API",
+    "message": "Login API called",
+    "context": {
+        "method": "POST",
+        "content_type": "application/json"
+    }
+}
+
+{
+    "timestamp": "2026-05-22 14:33:37",
+    "pid": 2999,
+    "level": "API",
+    "message": "Login attempt",
+    "context": {
+        "email": "sami@gmail.com",
+        "remember_me": false,
+        "has_password": true
+    }
+}
+
+{
+    "timestamp": "2026-05-22 14:33:37",
+    "pid": 2999,
+    "level": "API",
+    "message": "Login attempt: FAILED",
+    "context": {
+        "email": "sami@gmail.com",
+        "success": false,
+        "ip": "::1",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15",
+        "error": "Invalid email or password"
+    }
+}
+
+{
+    "timestamp": "2026-05-22 14:33:47",
+    "pid": 2937,
+    "level": "API",
+    "message": "Login API called",
+    "context": {
+        "method": "POST",
+        "content_type": "application/json"
+    }
+}
+
+{
+    "timestamp": "2026-05-22 14:33:47",
+    "pid": 2937,
+    "level": "API",
+    "message": "Login attempt",
+    "context": {
+        "email": "sam@gmail.com",
+        "remember_me": false,
+        "has_password": true
+    }
+}
+
+{
+    "timestamp": "2026-05-22 14:33:47",
+    "pid": 2937,
+    "level": "API",
+    "message": "Login attempt: SUCCESS",
+    "context": {
+        "email": "sam@gmail.com",
+        "success": true,
+        "ip": "::1",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    }
+}
+
+{
+    "timestamp": "2026-07-02 12:06:41",
+    "pid": 6768,
+    "level": "API",
+    "message": "Register API called",
+    "context": {
+        "method": "POST",
+        "content_type": "application/json"
+    }
+}
+
+{
+    "timestamp": "2026-07-02 12:06:41",
+    "pid": 6768,
+    "level": "API",
+    "message": "Register request data",
+    "context": {
+        "has_full_name": true,
+        "email": "will@gmail.com",
+        "has_password": true,
+        "has_csrf": true,
+        "verified_token": true
+    }
+}
+
+{
+    "timestamp": "2026-07-02 12:06:41",
+    "pid": 6768,
+    "level": "API",
+    "message": "Registration attempt: SUCCESS",
+    "context": {
+        "email": "will@gmail.com",
+        "success": true,
+        "ip": "::1"
+    }
+}
+
+{
+    "timestamp": "2026-07-02 12:06:56",
+    "pid": 6856,
+    "level": "API",
+    "message": "Login API called",
+    "context": {
+        "method": "POST",
+        "content_type": "application/json"
+    }
+}
+
+{
+    "timestamp": "2026-07-02 12:06:56",
+    "pid": 6856,
+    "level": "API",
+    "message": "Login attempt",
+    "context": {
+        "email": "will@gmail.com",
+        "remember_me": false,
+        "has_password": true
+    }
+}
+
+{
+    "timestamp": "2026-07-02 12:06:56",
+    "pid": 6856,
+    "level": "API",
+    "message": "Login attempt: SUCCESS",
+    "context": {
+        "email": "will@gmail.com",
+        "success": true,
+        "ip": "::1",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    }
+}
+
+{
+    "timestamp": "2026-07-02 12:07:36",
+    "pid": 6768,
+    "level": "API",
+    "message": "Login API called",
+    "context": {
+        "method": "POST",
+        "content_type": "application/json"
+    }
+}
+
+{
+    "timestamp": "2026-07-02 12:07:36",
+    "pid": 6768,
+    "level": "API",
+    "message": "Login attempt",
+    "context": {
+        "email": "will@gmail.com",
+        "remember_me": false,
+        "has_password": true
+    }
+}
+
+{
+    "timestamp": "2026-07-02 12:07:36",
+    "pid": 6768,
+    "level": "API",
+    "message": "Login attempt: SUCCESS",
+    "context": {
+        "email": "will@gmail.com",
+        "success": true,
+        "ip": "::1",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    }
+}
+
+{
+    "timestamp": "2026-07-04 14:05:38",
+    "pid": 6782,
+    "level": "API",
+    "message": "Register API called",
+    "context": {
+        "method": "POST",
+        "content_type": "application/json"
+    }
+}
+
+{
+    "timestamp": "2026-07-04 14:05:38",
+    "pid": 6782,
+    "level": "API",
+    "message": "Register request data",
+    "context": {
+        "has_full_name": true,
+        "email": "billy@gmail.com",
+        "has_password": true,
+        "has_csrf": true,
+        "verified_token": true
+    }
+}
+
+{
+    "timestamp": "2026-07-04 14:05:38",
+    "pid": 6782,
+    "level": "API",
+    "message": "Registration attempt: SUCCESS",
+    "context": {
+        "email": "billy@gmail.com",
+        "success": true,
+        "ip": "::1"
+    }
+}
+
+{
+    "timestamp": "2026-07-04 14:05:50",
+    "pid": 6857,
+    "level": "API",
+    "message": "Login API called",
+    "context": {
+        "method": "POST",
+        "content_type": "application/json"
+    }
+}
+
+{
+    "timestamp": "2026-07-04 14:05:50",
+    "pid": 6857,
+    "level": "API",
+    "message": "Login attempt",
+    "context": {
+        "email": "billy@gmail.com",
+        "remember_me": false,
+        "has_password": true
+    }
+}
+
+{
+    "timestamp": "2026-07-04 14:05:50",
+    "pid": 6857,
+    "level": "API",
+    "message": "Login attempt: SUCCESS",
+    "context": {
+        "email": "billy@gmail.com",
+        "success": true,
+        "ip": "::1",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    }
+}
+
