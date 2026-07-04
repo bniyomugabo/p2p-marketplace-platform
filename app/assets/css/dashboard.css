@@ -1,0 +1,33 @@
+
+.platform-dashboard .dashboard-card {
+    border: none;
+    border-radius: 0.75rem;
+    transition: transform 0.2s;
+}
+.platform-dashboard .dashboard-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.1) !important;
+}
+.platform-dashboard .border-left-primary { border-left: 0.25rem solid #4e73df !important; }
+.platform-dashboard .border-left-success { border-left: 0.25rem solid #1cc88a !important; }
+.platform-dashboard .border-left-info { border-left: 0.25rem solid #36b9cc !important; }
+.platform-dashboard .border-left-warning { border-left: 0.25rem solid #f6c23e !important; }
+.platform-dashboard .border-left-danger { border-left: 0.25rem solid #e74a3b !important; }
+.platform-dashboard .icon-circle { width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center; }
+.platform-dashboard .bg-primary-light { background-color: rgba(78, 115, 223, 0.1); }
+.platform-dashboard .bg-success-light { background-color: rgba(28, 200, 138, 0.1); }
+.platform-dashboard .bg-info-light { background-color: rgba(54, 185, 204, 0.1); }
+.platform-dashboard .bg-warning-light { background-color: rgba(246, 194, 62, 0.1); }
+.platform-dashboard .bg-danger-light { background-color: rgba(231, 74, 59, 0.1); }
+.platform-dashboard .bg-soft-success { background-color: rgba(40, 167, 69, 0.1); color: #28a745; }
+.platform-dashboard .avatar-placeholder { box-shadow: 0 0 0 3px rgba(78, 115, 223, 0.2); }
+.platform-dashboard .list-group-item { border-left: none; border-right: none; padding: 0.75rem 1rem; }
+.platform-dashboard .list-group-item:first-child { border-top: none; }
+.platform-dashboard .list-group-item:last-child { border-bottom: none; }
+.platform-dashboard .progress { border-radius: 1rem; background-color: #eaecf4; }
+.platform-dashboard .stat-item { transition: all 0.2s; }
+.platform-dashboard .stat-item:hover { background-color: #e3e6f0 !important; transform: scale(1.02); }
+@media (max-width: 768px) {
+    .platform-dashboard .welcome-section .d-flex { flex-direction: column; text-align: center; }
+    .platform-dashboard .quick-actions { justify-content: center !important; margin-top: 1rem; }
+}

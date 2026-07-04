@@ -1,0 +1,428 @@
+[26-Apr-2026 13:52:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:52:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:52:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:54:43 UTC] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:54:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:54:43 UTC] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:54:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:54:43 UTC] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:54:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:54:57 UTC] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:54:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:54:57 UTC] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:54:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:54:57 UTC] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:54:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:55:16 UTC] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:55:16 UTC] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:55:16 UTC] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:55:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:55:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:55:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:56:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function type() in /Applications/MAMP/htdocs/sati_erp_updated/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:57:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:57:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:57:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:57:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:57:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 13:57:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 25
+[26-Apr-2026 14:02:10 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:02:10 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:02:10 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:02:13 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:02:13 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:02:13 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:04:43 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:04:43 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:04:43 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:08:42 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:08:42 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:08:42 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:08:44 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:08:44 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:08:44 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:08:50 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:08:50 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:08:50 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:11:46 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:11:46 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:11:46 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:12:18 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:12:18 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:12:18 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:19:40 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:19:40 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:19:40 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:20:53 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:20:53 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:20:53 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:22:03 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:22:03 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:22:03 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:16 UTC] PHP Warning:  chr() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:37 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:37 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:37 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:45 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:45 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:23:45 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /Applications/MAMP/htdocs/sati_erp_updated/middleware/AuthMiddleware.php on line 69
+[26-Apr-2026 14:43:13 UTC] PHP Fatal error:  Uncaught TypeError: ini_set() expects parameter 2 to be string, int given in /Applications/MAMP/htdocs/sati_erp_updated/api/dashboard/chart-data.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/sati_erp_updated/api/dashboard/chart-data.php(11): ini_set('display_errors', 0)
+#1 /Applications/MAMP/htdocs/sati_erp_updated/index.php(141): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/sati_erp_updated/index.php(92): Router::handleApiRequest('api/dashboard/c...', 'GET')
+#3 /Applications/MAMP/htdocs/sati_erp_updated/index.php(273): Router::dispatch()
+#4 {main}
+  thrown in /Applications/MAMP/htdocs/sati_erp_updated/api/dashboard/chart-data.php on line 11
+[26-Apr-2026 15:04:56 UTC] PHP Notice:  Undefined variable: activatedCategories in /Applications/MAMP/htdocs/sati_erp_updated/pages/reports/inventory.php on line 211
+[26-Apr-2026 15:04:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/sati_erp_updated/pages/reports/inventory.php on line 211
+[26-Apr-2026 15:05:48 UTC] Save settings error for company 4: SQLSTATE[HY093]: Invalid parameter number
+[26-Apr-2026 15:08:44 UTC] Save settings error for company 4: SQLSTATE[HY093]: Invalid parameter number
+[26-Apr-2026 15:14:57 UTC] Save settings error for company 4: SQLSTATE[HY093]: Invalid parameter number
+[26-Apr-2026 15:15:37 UTC] Save settings error for company 4: SQLSTATE[HY093]: Invalid parameter number
+[26-Apr-2026 15:16:03 UTC] PHP Parse error:  syntax error, unexpected ''updated_at'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /Applications/MAMP/htdocs/sati_erp_updated/pages/admin/settings.php on line 105
+[26-Apr-2026 15:16:18 UTC] Save settings error for company 4: SQLSTATE[HY093]: Invalid parameter number
+[26-Apr-2026 15:18:53 UTC] Save settings error for company 4: SQLSTATE[HY093]: Invalid parameter number
+[26-Apr-2026 15:24:24 UTC] Save settings error for company 4: SQLSTATE[HY093]: Invalid parameter number
+[26-Apr-2026 15:29:05 UTC] Save settings error for company 4: SQLSTATE[HY093]: Invalid parameter number
+[26-Apr-2026 19:15:54 UTC] [CSRF] Expired token - IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15, URI: /sati_erp_updated/index.php?page=admin/settings
+[27-Apr-2026 07:17:21 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:17:21 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:17:21 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:17:21 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:17:21 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:17:21 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:17:26 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:17:26 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:17:26 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:17:26 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:17:26 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:17:28 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:17:28 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:17:28 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:17:28 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:17:28 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:17:36 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:17:37 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:17:37 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:17:37 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:17:37 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:17:58 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:17:58 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:17:58 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:17:58 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:17:58 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:18:37 UTC] API add.php called - 2026-04-27 07:18:37
+[27-Apr-2026 07:18:37 UTC] PHP Fatal error:  Uncaught TypeError: str_pad() expects parameter 1 to be string, int given in /Applications/MAMP/htdocs/sati_erp_updated/api/products/add.php:92
+Stack trace:
+#0 /Applications/MAMP/htdocs/sati_erp_updated/api/products/add.php(92): str_pad(1, 2, '0', 0)
+#1 /Applications/MAMP/htdocs/sati_erp_updated/api/products/add.php(303): generate_sku('PROD26042019', 'STD', 1)
+#2 {main}
+  thrown in /Applications/MAMP/htdocs/sati_erp_updated/api/products/add.php on line 92
+[27-Apr-2026 07:34:04 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:34:04 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:34:04 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:34:04 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:34:04 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:34:52 UTC] API add.php called - 2026-04-27 07:34:52
+[27-Apr-2026 07:34:52 UTC] PHP Fatal error:  Uncaught TypeError: str_pad() expects parameter 1 to be string, int given in /Applications/MAMP/htdocs/sati_erp_updated/api/products/add.php:93
+Stack trace:
+#0 /Applications/MAMP/htdocs/sati_erp_updated/api/products/add.php(93): str_pad(1, 2, '0', 0)
+#1 /Applications/MAMP/htdocs/sati_erp_updated/api/products/add.php(317): generate_sku('PROD26048967', 'STD', 1)
+#2 {main}
+  thrown in /Applications/MAMP/htdocs/sati_erp_updated/api/products/add.php on line 93
+[27-Apr-2026 07:36:43 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:36:43 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:36:43 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:36:43 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:36:43 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:37:17 UTC] API add.php called - 2026-04-27 07:37:17
+[27-Apr-2026 07:41:26 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:41:26 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:41:26 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:41:26 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:41:26 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:42:16 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:42:16 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:42:16 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:42:16 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:42:16 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:42:17 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:42:17 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:42:17 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:42:17 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:42:17 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:42:31 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:42:31 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:42:31 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:42:31 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:42:31 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:42:35 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:42:35 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:42:35 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:42:35 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:42:35 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:42:56 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:42:56 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:42:56 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:42:56 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:42:56 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:43:21 UTC] API add.php called - 2026-04-27 07:43:21
+[27-Apr-2026 07:43:46 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:43:46 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:43:46 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:43:46 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:43:46 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:43:48 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:43:48 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:43:48 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:43:48 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:43:48 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:43:51 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:43:51 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:43:51 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:43:51 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:43:51 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:43:55 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:43:55 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:43:55 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:43:55 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:43:55 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:51:56 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:51:56 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:51:56 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:51:56 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:51:56 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:52:09 UTC] Save settings error for company 15: SQLSTATE[HY093]: Invalid parameter number
+[27-Apr-2026 07:52:09 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:52:09 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:52:09 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:52:09 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:52:09 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:57:37 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:57:37 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:57:37 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:57:37 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:57:37 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:57:43 UTC] Save settings error for company 15: SQLSTATE[HY093]: Invalid parameter number
+[27-Apr-2026 07:57:43 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:57:43 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:57:43 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[27-Apr-2026 07:57:43 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/pages/dashboard/main.php on line 1045
+[27-Apr-2026 07:57:43 UTC] PHP Notice:  Undefined index: csrf_token in /Applications/MAMP/htdocs/sati_erp_updated/templates/footer.php on line 59
+[30-Apr-2026 08:25:44 UTC] PHP Notice:  Undefined variable: activatedCategories in /Applications/MAMP/htdocs/sati_erp_updated/pages/reports/inventory.php on line 211
+[30-Apr-2026 08:25:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/sati_erp_updated/pages/reports/inventory.php on line 211
+[30-Apr-2026 08:27:21 UTC] Save settings error for company 4: SQLSTATE[HY093]: Invalid parameter number
+[30-Apr-2026 08:37:44 UTC] Save settings error for company 4: SQLSTATE[HY093]: Invalid parameter number
+[30-Apr-2026 08:52:14 UTC] PHP Notice:  Undefined variable: companyName in /Applications/MAMP/htdocs/sati_erp_updated/pages/reports/dashboard.php on line 251
+[30-Apr-2026 08:52:14 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars() expects parameter 1 to be string, null given in /Applications/MAMP/htdocs/sati_erp_updated/pages/reports/dashboard.php:251
+Stack trace:
+#0 /Applications/MAMP/htdocs/sati_erp_updated/pages/reports/dashboard.php(251): htmlspecialchars(NULL)
+#1 /Applications/MAMP/htdocs/sati_erp_updated/index.php(222): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/sati_erp_updated/index.php(96): Router::handlePageRequest('reports')
+#3 /Applications/MAMP/htdocs/sati_erp_updated/index.php(271): Router::dispatch()
+#4 {main}
+  thrown in /Applications/MAMP/htdocs/sati_erp_updated/pages/reports/dashboard.php on line 251
+[30-Apr-2026 08:55:53 UTC] PHP Notice:  Undefined variable: statusSales in /Applications/MAMP/htdocs/sati_erp_updated/pages/reports/dashboard.php on line 283
+[30-Apr-2026 08:55:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/sati_erp_updated/pages/reports/dashboard.php on line 283
+[30-Apr-2026 08:55:53 UTC] PHP Notice:  Undefined variable: statusSales in /Applications/MAMP/htdocs/sati_erp_updated/pages/reports/dashboard.php on line 295
+[30-Apr-2026 08:55:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/sati_erp_updated/pages/reports/dashboard.php on line 295
+[30-Apr-2026 08:55:53 UTC] PHP Notice:  Undefined variable: companyCurrency in /Applications/MAMP/htdocs/sati_erp_updated/pages/reports/dashboard.php on line 298
+[30-Apr-2026 08:59:11 UTC] PHP Notice:  Undefined variable: companyCurrency in /Applications/MAMP/htdocs/sati_erp_updated/pages/reports/dashboard.php on line 334
+[30-Apr-2026 09:05:55 UTC] PHP Notice:  Undefined variable: days in /Applications/MAMP/htdocs/sati_erp_updated/pages/reports/dashboard.php on line 700
+[30-Apr-2026 09:05:55 UTC] PHP Notice:  Undefined variable: companyCurrency in /Applications/MAMP/htdocs/sati_erp_updated/pages/reports/dashboard.php on line 703
+[30-Apr-2026 09:05:55 UTC] PHP Notice:  Undefined variable: sales in /Applications/MAMP/htdocs/sati_erp_updated/pages/reports/dashboard.php on line 704
+[30-Apr-2026 09:05:55 UTC] PHP Notice:  Undefined variable: invoices in /Applications/MAMP/htdocs/sati_erp_updated/pages/reports/dashboard.php on line 717
+[30-Apr-2026 09:05:55 UTC] PHP Notice:  Undefined variable: companyCurrency in /Applications/MAMP/htdocs/sati_erp_updated/pages/reports/dashboard.php on line 743
+[30-Apr-2026 09:05:55 UTC] PHP Notice:  Undefined variable: companyCurrency in /Applications/MAMP/htdocs/sati_erp_updated/pages/reports/dashboard.php on line 773
+[30-Apr-2026 09:09:49 UTC] API add.php called - 2026-04-30 09:09:49
+[30-Apr-2026 09:23:57 UTC] API add.php called - 2026-04-30 09:23:57
+[30-Apr-2026 09:43:19 UTC] Graph API error: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'u766_main_sati.sales_invoices.invoice_date' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+[30-Apr-2026 10:32:15 UTC] PHP Notice:  Undefined variable: handlerFile in /Applications/MAMP/htdocs/sati_erp_updated/index.php on line 149
+[30-Apr-2026 10:34:35 UTC] Graph API error: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'u766_main_sati.sales_invoices.invoice_date' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+[30-Apr-2026 10:49:15 UTC] Graph API error: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'u766_main_sati.sales_invoices.invoice_date' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+[30-Apr-2026 10:49:48 UTC] Graph API error: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'u766_main_sati.sales_invoices.invoice_date' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+[30-Apr-2026 10:53:20 UTC] Graph API error: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'u766_main_sati.sales_invoices.invoice_date' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+[30-Apr-2026 10:56:29 UTC] Graph API error: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'u766_main_sati.sales_invoices.invoice_date' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+[30-Apr-2026 12:32:50 UTC] PHP Notice:  Undefined variable: activatedCategories in /Applications/MAMP/htdocs/sati_erp_updated/pages/reports/inventory.php on line 211
+[30-Apr-2026 12:32:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/sati_erp_updated/pages/reports/inventory.php on line 211
+[30-Apr-2026 12:36:32 UTC] API add.php called - 2026-04-30 12:36:32
+[30-Apr-2026 12:43:35 UTC] API add.php called - 2026-04-30 12:43:35
+[30-Apr-2026 12:46:25 UTC] API add.php called - 2026-04-30 12:46:25
+[30-Apr-2026 13:07:25 UTC] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+[30-Apr-2026 13:07:25 UTC] PHP Fatal error:  Uncaught Exception: Database connection error. Please try again later. in /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/config/database.php:31
+Stack trace:
+#0 /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/config/database.php(38): Database->__construct()
+#1 /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/auth/signin.php(37): Database::getInstance()
+#2 {main}
+  thrown in /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/config/database.php on line 31
+[30-Apr-2026 13:10:47 UTC] PHP Warning:  Undefined variable $activatedCategories in /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/pages/reports/inventory.php on line 211
+[30-Apr-2026 13:10:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/pages/reports/inventory.php on line 211
+[30-Apr-2026 13:15:34 UTC] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'u637140770_sati_erp'@'localhost' (using password: YES)
+[30-Apr-2026 13:15:34 UTC] PHP Fatal error:  Uncaught Exception: Database connection error. Please try again later. in /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/config/database.php:31
+Stack trace:
+#0 /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/config/database.php(38): Database->__construct()
+#1 /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/models/BaseModel.php(17): Database::getInstance()
+#2 /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/models/Notification.php(20): BaseModel->__construct()
+#3 /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/api/notifications/get.php(39): Notification->__construct()
+#4 {main}
+  thrown in /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/config/database.php on line 31
+[30-Apr-2026 13:16:34 UTC] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'u637140770_sati_erp'@'localhost' (using password: YES)
+[30-Apr-2026 13:16:34 UTC] PHP Fatal error:  Uncaught Exception: Database connection error. Please try again later. in /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/config/database.php:31
+Stack trace:
+#0 /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/config/database.php(38): Database->__construct()
+#1 /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/models/BaseModel.php(17): Database::getInstance()
+#2 /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/models/Notification.php(20): BaseModel->__construct()
+#3 /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/api/notifications/get.php(39): Notification->__construct()
+#4 {main}
+  thrown in /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/config/database.php on line 31
+[30-Apr-2026 13:16:58 UTC] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'u637140770_sati_erp'@'localhost' (using password: YES)
+[30-Apr-2026 13:16:58 UTC] PHP Fatal error:  Uncaught Exception: Database connection error. Please try again later. in /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/config/database.php:31
+Stack trace:
+#0 /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/config/database.php(38): Database->__construct()
+#1 /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/config/autoload.php(391): Database::getInstance()
+#2 /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/templates/sidebar.php(8): UserPermission::getAllowedPages()
+#3 /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/index.php(221): require_once('/home/u63714077...')
+#4 /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/index.php(96): Router::handlePageRequest()
+#5 /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/index.php(271): Router::dispatch()
+#6 {main}
+  thrown in /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/config/database.php on line 31
+[30-Apr-2026 13:17:10 UTC] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'u637140770_sati_erp'@'localhost' (using password: YES)
+[30-Apr-2026 13:17:10 UTC] PHP Fatal error:  Uncaught Exception: Database connection error. Please try again later. in /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/config/database.php:31
+Stack trace:
+#0 /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/config/database.php(38): Database->__construct()
+#1 /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/config/autoload.php(391): Database::getInstance()
+#2 /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/templates/sidebar.php(8): UserPermission::getAllowedPages()
+#3 /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/index.php(221): require_once('/home/u63714077...')
+#4 /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/index.php(96): Router::handlePageRequest()
+#5 /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/index.php(271): Router::dispatch()
+#6 {main}
+  thrown in /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_updated/config/database.php on line 31
+[30-Apr-2026 13:20:58 UTC] API add.php called - 2026-04-30 13:20:58
+[30-Apr-2026 15:03:07 UTC] PHP Warning:  Undefined variable $csrfToken in /home/u637140770/domains/bruceconnect.com/public_html/sati_erp_demo/auth/register.php on line 359
+[30-Apr-2026 15:19:01 UTC] API add.php called - 2026-04-30 15:19:01
+[07-May-2026 22:19:04 UTC] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'u637140770_sati_erp_demo'@'localhost' (using password: YES)
+[07-May-2026 22:19:04 UTC] PHP Fatal error:  Uncaught Exception: Database connection error. Please try again later. in /Applications/MAMP/htdocs/mpazi/demo/config/database.php:31
+Stack trace:
+#0 /Applications/MAMP/htdocs/mpazi/demo/config/database.php(38): Database->__construct()
+#1 /Applications/MAMP/htdocs/mpazi/demo/config/autoload.php(391): Database::getInstance()
+#2 /Applications/MAMP/htdocs/mpazi/demo/templates/sidebar.php(8): UserPermission::getAllowedPages(3)
+#3 /Applications/MAMP/htdocs/mpazi/demo/index.php(221): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/mpazi/demo/index.php(96): Router::handlePageRequest('dashboard')
+#5 /Applications/MAMP/htdocs/mpazi/demo/index.php(271): Router::dispatch()
+#6 {main}
+  thrown in /Applications/MAMP/htdocs/mpazi/demo/config/database.php on line 31

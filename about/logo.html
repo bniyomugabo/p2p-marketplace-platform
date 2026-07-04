@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>MPAZI | Animated Brand Identity</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            min-height: 100vh;
+            background: linear-gradient(145deg, #eef5f7 0%, #d9e4e8 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: 'Segoe UI', 'Inter', system-ui, -apple-system, 'Poppins', 'Montserrat', sans-serif;
+            padding: 2rem;
+        }
+
+        /* Main card container with subtle ambient shadow */
+        .logo-showcase {
+            background: rgba(255, 255, 255, 0.92);
+            backdrop-filter: blur(2px);
+            border-radius: 4rem;
+            padding: 2.5rem 3rem 2.8rem 3rem;
+            box-shadow: 0 25px 45px -12px rgba(0, 0, 0, 0.25), 0 1px 2px rgba(0,0,0,0.05);
+            transition: transform 0.3s ease;
+            text-align: center;
+            border: 1px solid rgba(255,255,255,0.6);
+        }
+
+        .logo-showcase:hover {
+            transform: scale(1.01);
+        }
+
+        /* Animated SVG container */
+        .animated-logo {
+            margin-bottom: 1.2rem;
+            cursor: pointer;
+            display: inline-block;
+        }
+
+        .river-svg {
+            width: 320px;
+            max-width: 100%;
+            height: auto;
+            filter: drop-shadow(0 8px 14px rgba(11, 61, 89, 0.12));
+            transition: filter 0.4s;
+        }
+
+        .river-svg:hover {
+            filter: drop-shadow(0 12px 22px rgba(11, 61, 89, 0.2));
+        }
+
+        /* Brand typography with refined spacing */
+        .brand-name {
+            font-size: 4rem;
+            font-weight: 800;
+            letter-spacing: 6px;
+            background: linear-gradient(135deg, #0b3d59 0%, #1b5e7a 100%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
+            text-transform: uppercase;
+            margin-top: 0.25rem;
+            margin-bottom: 0.25rem;
+            font-family: 'Inter', 'Segoe UI', system-ui;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.02);
+        }
+
+        .tagline {
+            font-size: 0.85rem;
+            font-weight: 600;
+            letter-spacing: 2.5px;
+            color: #2c5a72;
+            background: rgba(93, 169, 214, 0.12);
+            display: inline-block;
+            padding: 0.4rem 1.2rem;
+            border-radius: 40px;
+            backdrop-filter: blur(2px);
+            font-family: 'Montserrat', 'Segoe UI', monospace;
+            text-transform: uppercase;
+        }
+
+        /* small decorative pulse effect */
+        @keyframes gentlePulse {
+            0% { opacity: 0.6; transform: scale(0.98);}
+            100% { opacity: 1; transform: scale(1);}
+        }
+
+        .logo-container {
+            animation: gentlePulse 1.8s ease-out forwards;
+        }
+
+        /* responsive behavior */
+        @media (max-width: 560px) {
+            .logo-showcase {
+                padding: 1.8rem 1.8rem 2rem 1.8rem;
+                border-radius: 2rem;
+            }
+            .brand-name {
+                font-size: 2.4rem;
+                letter-spacing: 3px;
+            }
+            .tagline {
+                font-size: 0.65rem;
+                letter-spacing: 1.5px;
+            }
+            .river-svg {
+                width: 240px;
+            }
+        }
+
+        /* Additional micro-interaction styles */
+        .flow-line {
+            fill: none;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+            transition: stroke 0.2s;
+        }
+
+        /* Spark particles (CSS based micro animation) */
+        .spark-glow {
+            position: relative;
+        }
+    </style>
+</head>
+<body>
+<div class="logo-showcase">
+    <div class="logo-container">
+        <!-- 
+            MPAZI Logo Visualization 
+            Concept: abstract river movement forming an M shape, representing fluid business management.
+            Three dynamic layers with different speeds create depth and "flowing current" identity.
+            Integrated with CSS custom animation for dash-offset flow and subtle rotation of highlights.
+        -->
+        <div class="animated-logo">
+            <svg class="river-svg" viewBox="0 0 500 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="MPAZI animated logo with flowing river abstract M">
+                <defs>
+                    <!-- Gradient definitions for modern polished look -->
+                    <linearGradient id="riverPrimary" x1="0%" y1="0%" x2="100%" y2="0%">
+                        <stop offset="0%" stop-color="#0b3d59" />
+                        <stop offset="50%" stop-color="#1f6d8f" />
+                        <stop offset="100%" stop-color="#0b3d59" />
+                    </linearGradient>
+                    <linearGradient id="riverMiddle" x1="0%" y1="0%" x2="100%" y2="0%">
+                        <stop offset="0%" stop-color="#3e92b3" />
+                        <stop offset="100%" stop-color="#63b4d9" />
+                    </linearGradient>
+                    <linearGradient id="riverBack" x1="0%" y1="0%" x2="100%" y2="0%">
+                        <stop offset="0%" stop-color="#b3d9f0" />
+                        <stop offset="100%" stop-color="#c2e2f5" />
+                    </linearGradient>
+                    <!-- Glow filter for subtle visual enhancement -->
+                    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+                        <feGaussianBlur in="SourceAlpha" stdDeviation="2" />
+                        <feMerge>
+                            <feMergeNode in="offsetblur" />
+                            <feMergeNode in="SourceGraphic" />
+                        </feMerge>
+                    </filter>
+                </defs>
+
+                <!-- Background abstract M with smooth flowing curves and symbolic river delta -->
+                <!-- Deepest layer (slowest flow, wider stroke) -->
+                <path class="flow-line" 
+                      d="M 60,135 C 110,135 130,45 210,45 C 290,45 310,135 360,135 C 390,135 420,115 440,95" 
+                      stroke="url(#riverBack)" 
+                      stroke-width="10"
+                      stroke-dasharray="240 280"
+                      stroke-dashoffset="520"
+                      style="animation: riverFlow 5.2s linear infinite; opacity: 0.55;" />
+                
+                <!-- Middle layer (medium flow, dynamic accent) -->
+                <path class="flow-line" 
+                      d="M 48,122 C 98,122 118,32 198,32 C 278,32 298,122 348,122 C 380,122 410,100 435,78" 
+                      stroke="url(#riverMiddle)" 
+                      stroke-width="8"
+                      stroke-dasharray="220 260"
+                      stroke-dashoffset="480"
+                      style="animation: riverFlow 3.8s linear infinite; opacity: 0.75; animation-delay: -0.5s;" />
+
+                <!-- Primary top layer: main brand river, forms the abstract 'M' apex rhythm -->
+                <path class="flow-line" 
+                      d="M 36,110 C 86,110 106,20 186,20 C 266,20 286,110 336,110 C 366,110 398,88 428,62" 
+                      stroke="url(#riverPrimary)" 
+                      stroke-width="7"
+                      stroke-dasharray="200 240"
+                      stroke-dashoffset="440"
+                      style="animation: riverFlow 2.6s linear infinite; filter: url(#softGlow);" />
+
+                <!-- Secondary elegant swoosh that reinforces the "M" wave structure with modern flow -->
+                <path d="M 70,150 C 110,170 135,210 186,210 C 237,210 260,170 300,150 C 330,135 365,148 395,165" 
+                      fill="none" 
+                      stroke="#2a7f6e" 
+                      stroke-width="3" 
+                      stroke-linecap="round" 
+                      opacity="0.3"
+                      stroke-dasharray="12 30"
+                      style="animation: dashMove 4s linear infinite;" />
+
+                <!-- Decorative particles (dots) suggesting water droplets / business micro interactions -->
+                <circle cx="120" cy="86" r="2.5" fill="#5da9d6" opacity="0.7">
+                    <animate attributeName="cy" values="86;72;86" dur="3s" repeatCount="indefinite" />
+                    <animate attributeName="opacity" values="0.7;0.2;0.7" dur="3s" repeatCount="indefinite" />
+                </circle>
+                <circle cx="230" cy="38" r="2" fill="#0b3d59" opacity="0.8">
+                    <animate attributeName="cy" values="38;26;38" dur="2.4s" repeatCount="indefinite" />
+                    <animate attributeName="cx" values="230;232;230" dur="3s" repeatCount="indefinite" />
+                </circle>
+                <circle cx="305" cy="78" r="2.8" fill="#2c7ca0" opacity="0.6">
+                    <animate attributeName="cy" values="78;64;78" dur="2.8s" repeatCount="indefinite" />
+                </circle>
+                <circle cx="390" cy="118" r="2.2" fill="#5da9d6" opacity="0.8">
+                    <animate attributeName="cy" values="118;104;118" dur="3.4s" repeatCount="indefinite" />
+                </circle>
+                <circle cx="170" cy="170" r="1.8" fill="#1f6d8f" opacity="0.5">
+                    <animate attributeName="cy" values="170;158;170" dur="2.2s" repeatCount="indefinite" />
+                </circle>
+
+                <!-- Minimalist MPAZI underscore accent line (dynamic glow) -->
+                <line x1="100" y1="200" x2="400" y2="200" stroke="#0b3d59" stroke-width="1.5" stroke-linecap="round" opacity="0.25" stroke-dasharray="4 8">
+                    <animate attributeName="stroke-dashoffset" from="0" to="24" dur="1.5s" repeatCount="indefinite" />
+                </line>
+            </svg>
+        </div>
+        
+        <div class="brand-name">MPAZI</div>
+        <div class="tagline">BUSINESS ACTIVITY MANAGEMENT PLATFORM</div>
+    </div>
+</div>
+
+<style>
+    /* Core flowing keyframes: dash offset moves to create illusion of river motion */
+    @keyframes riverFlow {
+        0% {
+            stroke-dashoffset: 480;
+        }
+        100% {
+            stroke-dashoffset: 0;
+        }
+    }
+    
+    /* Secondary dash movement for decorative lines */
+    @keyframes dashMove {
+        0% {
+            stroke-dashoffset: 0;
+        }
+        100% {
+            stroke-dashoffset: -80;
+        }
+    }
+
+    /* Enhance hover micro-animation */
+    .animated-logo svg path.flow-line {
+        transition: stroke-width 0.2s;
+    }
+    .animated-logo:hover svg path.flow-line {
+        stroke-width: 7.5;
+    }
+    .animated-logo:hover svg path:nth-child(2) {
+        stroke-width: 8.5;
+    }
+    
+    /* add subtle breathing effect to whole container */
+    @keyframes breath {
+        0% { transform: scale(1); }
+        100% { transform: scale(1.005); }
+    }
+    .logo-showcase {
+        transition: box-shadow 0.4s, transform 0.2s;
+    }
+    .logo-showcase:hover {
+        box-shadow: 0 30px 50px -18px rgba(0, 0, 0, 0.3);
+    }
+</style>
+
+<!-- Additional JavaScript (optional) to add dynamic interactive shimmer effect based on mouse movement -->
+<script>
+    (function() {
+        // Enhance the logo interactivity: when moving mouse over SVG, small ripple effect on middle stream
+        const svgElement = document.querySelector('.river-svg');
+        const container = document.querySelector('.animated-logo');
+        if(svgElement) {
+            // add class on hover to make animation slightly faster / playful effect
+            svgElement.addEventListener('mouseenter', () => {
+                // dynamic style to boost flow speed temporarily (subtle UX delight)
+                const primaryLine = document.querySelector('.flow-line[stroke="url(#riverPrimary)"]');
+                const middleLine = document.querySelector('.flow-line[stroke="url(#riverMiddle)"]');
+                if(primaryLine) {
+                    primaryLine.style.animationDuration = '1.8s';
+                }
+                if(middleLine) {
+                    middleLine.style.animationDuration = '2.8s';
+                }
+            });
+            svgElement.addEventListener('mouseleave', () => {
+                const primaryLine = document.querySelector('.flow-line[stroke="url(#riverPrimary)"]');
+                const middleLine = document.querySelector('.flow-line[stroke="url(#riverMiddle)"]');
+                if(primaryLine) {
+                    primaryLine.style.animationDuration = '2.6s';
+                }
+                if(middleLine) {
+                    middleLine.style.animationDuration = '3.8s';
+                }
+            });
+        }
+
+        // optional confetti-like micro spark when clicking logo? just fun effect
+        const logoTouch = document.querySelector('.animated-logo');
+        if(logoTouch) {
+            logoTouch.addEventListener('click', (e) => {
+                // small ripple feedback for engagement (not intrusive)
+                const ripple = document.createElement('span');
+                ripple.style.position = 'absolute';
+                ripple.style.borderRadius = '50%';
+                ripple.style.pointerEvents = 'none';
+                ripple.style.backgroundColor = 'rgba(93, 169, 214, 0.3)';
+                ripple.style.width = '20px';
+                ripple.style.height = '20px';
+                ripple.style.transform = 'translate(-50%, -50%) scale(0)';
+                ripple.style.transition = 'transform 0.5s ease-out, opacity 0.6s';
+                ripple.style.left = e.clientX - logoTouch.getBoundingClientRect().left + 'px';
+                ripple.style.top = e.clientY - logoTouch.getBoundingClientRect().top + 'px';
+                ripple.style.opacity = '1';
+                logoTouch.style.position = 'relative';
+                logoTouch.appendChild(ripple);
+                setTimeout(() => {
+                    ripple.style.transform = 'translate(-50%, -50%) scale(4)';
+                    ripple.style.opacity = '0';
+                    setTimeout(() => ripple.remove(), 600);
+                }, 10);
+            });
+        }
+    })();
+</script>
+
+<!-- Explanation note: the animation mimics continuous water flow, reinforcing MPAZI's brand as a dynamic business platform.
+     Three flowing ribbons represent agility, clarity and foresight. The abstract 'M' is subtly built by the central crest of curves.
+     Responsive, retina-ready, and fully interactive. -->
+</body>
+</html>
